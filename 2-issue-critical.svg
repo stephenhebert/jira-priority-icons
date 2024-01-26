@@ -1,12 +1,12 @@
 <svg version="1.1" id="svg5" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 4.23 4.23">
 	<defs id="defs2">
-		<linearGradient id="linearGradient983">
-			<stop style="stop-color:#ff0016;stop-opacity:1;" offset="0" id="stop979">
+		<linearGradient id="linearGradient13170">
+			<stop style="stop-color:#ff450f;stop-opacity:1;" offset="0" id="stop13166">
 			</stop>
-			<stop style="stop-color:#ffe900;stop-opacity:1;" offset="1" id="stop981">
+			<stop style="stop-color:#ffe900;stop-opacity:1;" offset="1" id="stop13168">
 			</stop>
 		</linearGradient>
-		<linearGradient xlink:href="#linearGradient983" id="linearGradient1509" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.59998332,0,0,0.42189682,-1.0582723,-0.80431651)" x1="5.6900549" y1="0.17569731" x2="4.7578006" y2="52.740967">
+		<linearGradient xlink:href="#linearGradient13170" id="linearGradient1509" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.59998332,0,0,0.42189682,-1.0582723,-0.80431651)" x1="5.2705688" y1="12.703344" x2="5.2611837" y2="21.30254">
 		</linearGradient>
 	</defs>
 	<g id="layer2" transform="translate(0,-4.2333331)">

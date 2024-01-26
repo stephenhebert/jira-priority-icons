@@ -1,18 +1,10 @@
-<svg version="1.1" id="svg5" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 4.23 4.23">
+<svg version="1.1" id="svg5" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 4.23 4.23">
 	<defs id="defs2">
-		<linearGradient id="linearGradient1806">
-			<stop style="stop-color:#2c593f;stop-opacity:1;" offset="0" id="stop1802">
-			</stop>
-			<stop style="stop-color:#29456c;stop-opacity:1;" offset="0.50304878" id="stop1808">
-			</stop>
-			<stop style="stop-color:#492f64;stop-opacity:1;" offset="1" id="stop1804">
-			</stop>
-		</linearGradient>
-		<linearGradient xlink:href="#linearGradient1806" id="linearGradient7495" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.59998488,0,0,0.36103303,3.1749695,-1.2327597)" x1="5.6900549" y1="0.17569731" x2="4.7578006" y2="52.740967">
-		</linearGradient>
 	</defs>
 	<g id="layer8" style="display:inline" transform="translate(-4.2333331,-12.7)">
-		<path id="rect378-5-08-7-3" style="display:inline;fill:url(#linearGradient7495);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;paint-order:fill markers stroke" d="m 5.0327935,13.493751 c -0.06766,0 -0.135188,0.02615 -0.18634,0.07836 -0.103135,0.105253 -0.120407,0.296917 0,0.380913 l 1.320196,0.921027 c 0.120407,0.08399 0.270166,0.105252 0.373303,0 l 1.320196,-0.921027 c 0.103135,-0.105252 0.103135,-0.275665 0,-0.380913 -0.103136,-0.105252 -0.250289,-0.07948 -0.373612,0 l -1.133545,0.730414 -1.133547,-0.729795 c -0.051485,-0.05262 -0.119087,-0.07898 -0.186651,-0.07898 z m 0,1.194338 c -0.06766,0 -0.135188,0.02617 -0.18634,0.07836 -0.103135,0.105252 -0.120407,0.297229 0,0.381223 l 1.320196,0.920718 c 0.120407,0.08399 0.270166,0.105252 0.373303,0 l 1.320196,-0.920718 c 0.103135,-0.105253 0.103135,-0.275974 0,-0.381223 -0.103136,-0.105252 -0.250289,-0.07948 -0.373612,0 l -1.133545,0.730723 -1.133547,-0.730106 c -0.05148,-0.05262 -0.119087,-0.07898 -0.186651,-0.07898 z">
+		<path style="display:inline;fill:#926cb9;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;paint-order:fill markers stroke" d="m 5.0327935,14.688089 c -0.06766,0 -0.135188,0.02617 -0.18634,0.07836 -0.103135,0.105252 -0.120407,0.297229 0,0.381223 l 1.320196,0.920718 c 0.120407,0.08399 0.270166,0.105252 0.373303,0 l 1.320196,-0.920718 c 0.103135,-0.105253 0.103135,-0.275974 0,-0.381223 -0.103136,-0.105252 -0.250289,-0.07948 -0.373612,0 l -1.133545,0.730723 -1.133547,-0.730106 c -0.05148,-0.05262 -0.119087,-0.07898 -0.186651,-0.07898 z" id="path17028">
+		</path>
+		<path style="display:inline;fill:#492f64;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;paint-order:fill markers stroke" d="m 5.0327935,13.493751 c -0.06766,0 -0.135188,0.02615 -0.18634,0.07836 -0.103135,0.105253 -0.120407,0.296917 0,0.380913 l 1.320196,0.921027 c 0.120407,0.08399 0.270166,0.105252 0.373303,0 l 1.320196,-0.921027 c 0.103135,-0.105252 0.103135,-0.275665 0,-0.380913 -0.103136,-0.105252 -0.250289,-0.07948 -0.373612,0 l -1.133545,0.730414 -1.133547,-0.729795 c -0.051485,-0.05262 -0.119087,-0.07898 -0.186651,-0.07898 z" id="rect378-5-08-7-3">
 		</path>
 	</g>
 </svg>
