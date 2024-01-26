@@ -1,31 +1,16 @@
-<svg
-   viewBox="0 0 10.556941 10.556941"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-     id="defs2"><linearGradient
-       id="linearGradient983"><stop
-         style="stop-color:#ff0016;stop-opacity:1;"
-         offset="0"
-         id="stop979" /><stop
-         style="stop-color:#ffe900;stop-opacity:1;"
-         offset="1"
-         id="stop981" /></linearGradient><linearGradient
-       xlink:href="#linearGradient983"
-       id="linearGradient985"
-       x1="5.6900549"
-       y1="0.17569731"
-       x2="4.7578006"
-       y2="52.740967"
-       gradientUnits="userSpaceOnUse" /></defs><g
-     id="layer3"
-     transform="translate(-0.01319615,-31.763197)"><rect
-       style="fill:none;stroke:none;stroke-width:0.0263923;stroke-linecap:round;stroke-dasharray:none;paint-order:fill markers stroke"
-       id="rect6166-3-3-3"
-       width="10.556941"
-       height="10.556941"
-       x="0.01319615"
-       y="31.763197" /><path
-       id="rect6819"
-       style="display:inline;fill:url(#linearGradient985);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;paint-order:fill markers stroke"
-       d="m 5.2549764,35.057292 c -0.1017007,5.16e-4 -0.1995096,0.03635 -0.2800863,0.118339 L 2.7745076,36.70577 c -0.1718958,0.174912 -0.1718958,0.458642 0,0.633553 0.171897,0.174913 0.4171572,0.132079 0.6227011,0 l 1.8892903,-1.214396 1.8892904,1.213362 c 0.08581,0.08745 0.1984936,0.131259 0.3110921,0.131259 0.1127642,0 0.2253155,-0.04347 0.3105754,-0.130225 0.1718958,-0.174911 0.2006916,-0.493962 0,-0.633553 L 5.5970744,35.175631 C 5.490457,35.101474 5.3702371,35.056707 5.2549764,35.057292 Z m 0,1.556494 c -0.1017007,5.16e-4 -0.1995096,0.03635 -0.2800863,0.118339 l -2.2003825,1.530656 c -0.1718958,0.174912 -0.1718958,0.458125 0,0.633036 0.1718972,0.174913 0.4171572,0.132079 0.6227011,0 l 1.8892903,-1.213879 1.8892904,1.212846 c 0.08581,0.08745 0.1984937,0.131258 0.3110921,0.131258 0.1127643,0 0.2253155,-0.04346 0.3105754,-0.130225 0.1718957,-0.174911 0.2006915,-0.493446 0,-0.633036 L 5.5970744,36.732125 C 5.490457,36.657968 5.3702372,36.613201 5.2549764,36.613786 Z" /></g></svg>
+<svg version="1.1" id="svg5" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 4.23 4.23">
+	<defs id="defs2">
+		<linearGradient id="linearGradient983">
+			<stop style="stop-color:#ff0016;stop-opacity:1;" offset="0" id="stop979">
+			</stop>
+			<stop style="stop-color:#ffe900;stop-opacity:1;" offset="1" id="stop981">
+			</stop>
+		</linearGradient>
+		<linearGradient xlink:href="#linearGradient983" id="linearGradient1525" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.59998505,0,0,0.62814113,-1.0581456,-8.5271697)" x1="5.6900549" y1="0.17569731" x2="4.7578006" y2="52.740967">
+		</linearGradient>
+	</defs>
+	<g id="layer3" transform="translate(0,-12.7)">
+		<path id="rect6819" style="display:inline;fill:url(#linearGradient1525);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;paint-order:fill markers stroke" d="m 2.0947616,13.493753 c -0.06102,3.25e-4 -0.1197033,0.02284 -0.1680477,0.07433 l -1.32019638,0.961143 c -0.1031339,0.109874 -0.1031339,0.288092 0,0.397961 0.1031355,0.109873 0.2502882,0.08296 0.3736113,0 l 1.13354578,-0.76281 1.1335462,0.76216 c 0.051486,0.05493 0.1190925,0.08245 0.1866504,0.08245 0.067657,0 0.1351864,-0.02731 0.1863407,-0.08181 0.1031338,-0.109874 0.1204116,-0.310278 0,-0.397961 L 2.3000154,13.568087 c -0.063969,-0.04656 -0.1360988,-0.07471 -0.2052538,-0.07433 z m 0,1.130588 c -0.06102,3.25e-4 -0.1197033,0.02284 -0.1680477,0.07433 l -1.32019638,0.961471 c -0.1031339,0.109873 -0.1031339,0.287765 0,0.397634 0.1031355,0.109874 0.2502882,0.08296 0.3736113,0 l 1.13354578,-0.762487 1.1335462,0.76184 c 0.051486,0.05493 0.1190925,0.08245 0.1866504,0.08245 0.067657,0 0.1351864,-0.0273 0.1863407,-0.08181 0.1031338,-0.109874 0.1204116,-0.309957 0,-0.397636 L 2.3000154,14.698665 c -0.063969,-0.04656 -0.1360988,-0.07471 -0.2052538,-0.07433 z">
+		</path>
+	</g>
+</svg>
