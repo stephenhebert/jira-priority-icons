@@ -1,5 +1,7 @@
 # jira-priority-icons
 
+| icon | priority | svg | png |
+| --- | --- | --- | --- |
 | <img src="1-issue-emergency.png" /> | 1-issue-emergency | [svg](1-issue-emergency.svg) | [png](1-issue-emergency.png) |
 | <img src="2-issue-critical.png" /> | 2-issue-critical | [svg](2-issue-critical.svg) | [png](2-issue-critical.png) |
 | <img src="3-issue-urgent.png" /> | 3-issue-urgent | [svg](3-issue-urgent.svg) | [png](3-issue-urgent.png) |
